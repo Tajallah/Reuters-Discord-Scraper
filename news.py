@@ -61,4 +61,4 @@ async def on_message(message):
 		client.close()
 		raise SystemExit
 
-client.run('MjkxNDc5OTE4MDQ5NjI0MDY1.DPkOcQ.bF5gWMX8_-3ZKjFlnCBX8M3zOb0')
+client.run('BOT CREDENTIALS GO HERE')
